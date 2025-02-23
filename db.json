@@ -1,0 +1,123 @@
+{
+  "rooms": [
+    {
+      "id": 6,
+      "name": "Executive Suite",
+      "price": 250,
+      "availability": false,
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQidQcKyj_ujDBqBQL0IU2tlQZNNKegpmFX_A&s"
+    },
+    {
+      "id": 7,
+      "name": "Presidential Suite",
+      "price": 500,
+      "availability": true,
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLiCXPBRVfw56hdXGmfDOm2DOkiX-Hpdwnxg&s"
+    },
+    {
+      "id": 8,
+      "name": "Economy Room",
+      "price": 60,
+      "availability": true,
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5kwJPph22kYxNVUqRL8wfhG46PzElDeOokA&s"
+    },
+    {
+      "id": 9,
+      "name": "Standard Room",
+      "price": 100,
+      "availability": false,
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg3iKko8U-5F-oEfMojQgpZZ548_c-ER5Y_g&s"
+    },
+    {
+      "id": 10,
+      "name": "Penthouse",
+      "price": 400,
+      "availability": true,
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDWc9WztB65q1prILKOx7VVJXyMBU3GskqbA&s"
+    },
+    {
+      "id": 11,
+      "name": "Penthouse",
+      "price": 400,
+      "availability": true,
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi5rgU1iqbiB2f29XaCJwsXl40GLXydZTsoQ&s"
+    },
+    {
+      "id": 12,
+      "name": "Penthouse",
+      "price": 400,
+      "availability": true,
+      "imgSrc": "https://www.home-designing.com/wp-content/uploads/2022/12/modern-living-room.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Penthouse",
+      "price": 400,
+      "availability": true,
+      "imgSrc": "https://hips.hearstapps.com/hmg-prod/images/sarah-storms-photo-by-brian-wetzel-01-76-6682ea910395c.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Penthouse",
+      "price": 400,
+      "availability": true,
+      "imgSrc": "https://hips.hearstapps.com/hmg-prod/images/sarah-storms-photo-by-brian-wetzel-01-76-6682ea910395c.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Penthouse",
+      "price": 400,
+      "availability": true,
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-qlZBLKTCdJ-_VLLgzmx5j8hhgRY78MVpJg&s"
+    },
+    {
+      "id": 16,
+      "name": "Penthouse",
+      "price": 400,
+      "availability": true,
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwNIxQlLrLTlEGr5-xNsTW8hogDAd9IHaekA&s"
+    },
+    {
+      "id": 17,
+      "name": "Penthouse",
+      "price": 400,
+      "availability": true,
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNfP1r1Ck7b16JdwZnxX-G6xP_bTOYHE3DcA&s"
+    },
+    {
+      "id": 18,
+      "name": "Penthouse",
+      "price": 400,
+      "availability": true,
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrLDaBC7AAY-47BRVu5K_ZR35ri3PdIwIl_g&s"
+    },
+    {
+      "id": 19,
+      "name": "Penthouse",
+      "price": 400,
+      "availability": true,
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSU6tW7S1K4GRmnhzZD8wMlVGOETgK1odI0w&s"
+    },
+    {
+      "id": 20,
+      "name": "Penthouse",
+      "price": 400,
+      "availability": true,
+      "imgSrc": "https://www.theenglishhome.co.uk/_gatsby/file/ad13fa50faabd07f0a9173cf1764b358/Elaine%20Watson%20living%20room%20ideas.jpg"
+    },
+    {
+      "name": "Luxury Romm",
+      "description": "",
+      "price": "200",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFj5_RHlltYj_kqK7TT9zrp6rTpXP4_AJk7g&s",
+      "id": 21
+    },
+    {
+      "name": "Family Room",
+      "description": "",
+      "price": "200",
+      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu4pwqrs4ovmfcMr4_zSS_v3Zkk7FF72iNzw&s",
+      "id": 22
+    }
+  ]
+}
