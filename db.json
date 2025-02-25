@@ -1,13 +1,6 @@
 {
   "rooms": [
     {
-      "id": 6,
-      "name": "Executive Suite",
-      "price": 250,
-      "availability": false,
-      "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQidQcKyj_ujDBqBQL0IU2tlQZNNKegpmFX_A&s"
-    },
-    {
       "id": 7,
       "name": "Presidential Suite",
       "price": 500,
@@ -118,6 +111,13 @@
       "price": "200",
       "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu4pwqrs4ovmfcMr4_zSS_v3Zkk7FF72iNzw&s",
       "id": 22
+    },
+    {
+      "name": "Family Room",
+      "description": "",
+      "price": "300",
+      "imgSrc": "https://www.oppeinhome.com/upload/images/ueditor/20230830/guide-to-design-luxury-bedroom-9.webp",
+      "id": 23
     }
   ]
 }
